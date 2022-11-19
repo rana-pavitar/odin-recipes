@@ -1,4 +1,4 @@
-# odin-recipies
+# odin-recipes
 
 This project is a task from odin project.
 
